@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327349370218",
+    "project_id": "tv-app-140e3",
+    "storage_bucket": "tv-app-140e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327349370218:android:dc66b4725ed3b6fe343913",
+        "android_client_info": {
+          "package_name": "com.example.tv_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327349370218-ogfelm2qmib9dgia04t46hu5r2646au5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXq0WcbOPDP67vzR6UsQnWTqaE9d0sKhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327349370218-ogfelm2qmib9dgia04t46hu5r2646au5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
